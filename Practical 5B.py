@@ -6,7 +6,7 @@ def for_loop_demo():
         for i in range(height):
             print(' ' * (height - i - 1) + '*' * (2 * i + 1))
     
-    build_equilateral_triangle()     ll,
+    build_equilateral_triangle()    
 
     # Printing a multiplication table
     print("\nMultiplication Table:")
@@ -21,4 +21,4 @@ def for_loop_demo():
     else:
         print(f"{num} is not a palindrome.")
 
-for_loop_demo()
+for_loop_demo()     
